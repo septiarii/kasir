@@ -1,0 +1,99 @@
+[2026-08-28 04:04:42] Menambahkan kategori: plastik
+[2026-08-28 04:05:06] Menambahkan produk: plastik
+[2026-08-28 04:19:56] Menyimpan pengaturan sistem
+[2026-08-28 04:38:36] Reset pengaturan ke default
+[2026-08-28 04:38:49] Menyimpan pengaturan sistem
+[2026-08-28 04:39:02] Transaksi berhasil: INV202608280003 - Rp 5.000
+[2026-08-28 04:48:15] Menyimpan pengaturan sistem
+[2026-08-28 04:57:08] Menyimpan pengaturan sistem
+[2026-08-28 05:00:20] Transaksi berhasil: INV202608280004 - Rp 5.000
+[2026-08-28 05:05:46] Menyimpan pengaturan sistem
+[2026-08-28 05:06:10] Menyimpan pengaturan sistem
+[2026-08-28 05:06:37] Menyimpan pengaturan sistem
+[2026-08-28 05:06:57] Menghapus user ID: 3
+[2026-08-28 05:07:17] Menghapus user ID: 2
+[2026-08-28 05:07:25] Menghapus user ID: 5
+[2026-08-28 05:07:57] Menambahkan user: kasir
+[2026-08-28 05:08:10] User login: kasir
+[2026-08-28 05:11:06] User login: admin
+[2026-08-28 05:11:21] Mengedit user ID: 6
+[2026-08-28 05:11:35] User login: pemilik
+[2026-08-29 13:49:30] User login: admin
+[2026-08-29 14:01:11] Transaksi berhasil: INV202608290001 - Rp 5.000
+[2026-08-29 14:10:47] Transaksi berhasil: INV202608290002 - Rp 5.000
+[2026-08-29 14:10:56] Transaksi berhasil: INV202608290003 - Rp 15.000
+[2026-08-29 14:11:11] Transaksi berhasil: INV202608290004 - Rp 20.000
+[2026-08-29 14:11:25] Transaksi berhasil: INV202608290005 - Rp 15.000
+[2026-08-31 05:28:35] User login: admin
+[2026-08-31 05:30:04] User login: kasir
+[2026-08-31 05:31:20] User login: pemilik
+[2026-08-31 05:36:30] User login: admin
+[2026-08-31 05:38:01] Menghapus produk ID: 6
+[2026-08-31 05:38:04] Menghapus produk ID: 7
+[2026-08-31 05:38:08] Menghapus produk ID: 5
+[2026-08-31 05:38:13] Menghapus kategori ID: 6
+[2026-08-31 05:38:16] Menghapus kategori ID: 7
+[2026-08-31 05:38:52] Menambahkan kategori: aksesoris
+[2026-08-31 05:39:49] Menambahkan kategori: headset
+[2026-08-31 05:40:50] Menambahkan kategori: charger
+[2026-08-31 05:41:56] Menambahkan produk: Anker
+[2026-08-31 05:42:22] Menambahkan produk: Ugreen
+[2026-08-31 05:42:45] Menambahkan produk: Baseus
+[2026-08-31 05:43:19] Menambahkan produk: Baseus
+[2026-08-31 05:43:44] Menambahkan produk: Knowledge Zenith
+[2026-08-31 05:45:02] Menambahkan produk: Baseus
+[2026-08-31 05:45:25] Menambahkan produk: Ugreen
+[2026-08-31 05:45:51] Menambahkan produk: Anker
+[2026-09-01 13:32:56] User login: admin
+[2026-09-03 03:28:47] User login: admin
+[2026-09-05 15:42:30] User login: admin
+[2026-09-05 15:43:09] Transaksi berhasil: INV202609050001 - Rp 225.000
+[2026-09-05 15:43:40] Transaksi berhasil: INV202609050002 - Rp 120.000
+[2026-09-05 15:46:43] Transaksi berhasil: INV202609050003 - Rp 200.000
+[2026-09-05 15:51:39] User login: admin
+[2026-09-06 02:59:30] User login: admin
+[2026-09-06 02:59:51] Transaksi berhasil: INV202609060001 - Rp 90.000
+[2026-09-06 03:00:50] Transaksi berhasil: INV202609060002 - Rp 160.000
+[2026-09-07 11:44:03] User login: admin
+[2026-09-07 11:44:13] Transaksi berhasil: INV202609070001 - Rp 30.000
+[2026-09-07 11:44:33] Transaksi berhasil: INV202609070002 - Rp 30.000
+[2026-09-07 16:49:44] User login: admin
+[2026-09-07 17:13:44] Transaksi berhasil: INV202609070003 - Rp 80.000
+[2026-09-07 17:16:16] Transaksi berhasil: INV202609070004 - Rp 65.000
+[2026-09-07 17:17:29] Transaksi berhasil: INV202609070005 - Rp 80.000
+[2026-09-07 17:17:57] Transaksi berhasil: INV202609070006 - Rp 80.000
+[2026-09-07 17:18:18] Transaksi berhasil: INV202609070007 - Rp 25.000
+[2026-09-07 17:19:23] Transaksi berhasil: INV202609070008 - Rp 65.000
+[2026-09-07 17:23:20] Transaksi berhasil: INV202609070009 - Rp 25.000
+[2026-09-07 17:23:52] Transaksi berhasil: INV202609070010 - Rp 30.000
+[2026-09-07 17:24:14] Transaksi berhasil: INV202609070011 - Rp 25.000
+[2026-09-07 17:27:48] Transaksi berhasil: INV202609070012 - Rp 30.000
+[2026-09-07 17:30:58] Transaksi berhasil: INV202609070013 - Rp 50.000
+[2026-09-07 17:34:11] Transaksi berhasil: INV202609070014 - Rp 80.000
+[2026-09-07 17:36:48] Transaksi berhasil: INV202609070015 - Rp 30.000
+[2026-09-07 17:39:17] Transaksi berhasil: INV202609070016 - Rp 80.000
+[2026-09-07 17:45:47] Transaksi berhasil: INV202609070017 - Rp 65.000
+[2026-09-07 17:51:41] User login: admin
+[2026-09-07 17:52:58] Transaksi berhasil: INV202609070018 - Rp 25.000
+[2026-09-08 03:37:34] User login: admin
+[2026-09-08 03:39:20] Transaksi berhasil: INV202609080001 - Rp 65.000
+[2026-09-08 03:56:17] Mengedit produk ID: 8
+[2026-09-08 03:57:27] Mengedit produk ID: 15
+[2026-09-08 03:57:43] Mengedit produk ID: 8
+[2026-09-08 03:58:21] Mengedit produk ID: 15
+[2026-09-08 03:58:39] Mengedit produk ID: 10
+[2026-09-08 03:59:58] Mengedit produk ID: 8
+[2026-09-08 04:00:21] Mengedit produk ID: 11
+[2026-09-08 04:02:18] Mengedit produk ID: 15
+[2026-09-08 04:02:52] Transaksi berhasil: INV202609080002 - Rp 20.000
+[2026-09-08 04:07:13] Transaksi berhasil: INV202609080003 - Rp 30.000
+[2026-09-08 04:16:04] Transaksi berhasil: INV202609080004 - Rp 50.000
+[2026-09-08 04:16:48] Transaksi berhasil: INV202609080005 - Rp 30.000
+[2026-09-10 07:19:21] User login: admin
+[2026-09-11 04:29:47] User login: admin
+[2026-09-11 04:31:22] Transaksi berhasil: INV202609110001 - Rp 25.000
+[2026-09-12 02:45:37] User login: admin
+[2026-09-12 03:02:40] Transaksi berhasil: INV202609120001 - Rp 100.000
+[2026-09-12 03:42:11] User login: admin
+[2026-09-12 05:49:04] User login: admin
+[2026-09-19 10:11:32] User login: admin
